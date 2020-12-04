@@ -1,1 +1,5 @@
-stuff
+variable "hello" {
+  type = string
+  default = "chet"
+  }
+  
